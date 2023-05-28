@@ -1,1 +1,1 @@
-<h1 aling="center">Easy Tkinter</h1>
+<h1 align="center">Easy Tkinter</h1>
