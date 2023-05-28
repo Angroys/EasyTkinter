@@ -21,7 +21,7 @@ class Window:
     :param height: The height of the window
     :type height: int
     :return: Height of the window
-    Lol
+    
     :param columns: Number of columns of the grid
     :type columns: int
 
